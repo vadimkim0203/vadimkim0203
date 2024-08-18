@@ -2,6 +2,8 @@
   <img src="https://www.codewars.com/users/vadimkim0203/badges/large">
 </div>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/10FLjwfpbxLmW8c25Xyc2N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <h1>👋 Hey everyone!</h1>
 <p>My name is Vadim and I'm an uprising Frontend Developer. I found my passion and drive in making beautiful and convenient web-sites and interfaces. Started my journey in December 2023 so keep up with my progress and you're welcome to check my projects below 🙇🏻</p>
 
