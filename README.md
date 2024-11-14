@@ -14,7 +14,7 @@
   <img src="https://abrudz.github.io/logos/JS.svg" alt="JS icon" width="36px" height="36px">
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NextJS.svg" alt="NextJS icon" width="36px" height="36px">
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/React.svg" alt="React icon" width="36px" height="36px">
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TailwindCSS.svg" alt="Tailwind CSS icon" width="36px" height="36px" style="transform: scale(1.7);"
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TailwindCSS.svg" alt="Tailwind CSS icon" width="48px" height="48px">
   
 </div>
 <!---
