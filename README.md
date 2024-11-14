@@ -10,7 +10,7 @@
 
 <h1>What I use</h1>
 <div>
-  <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="TS icon" width="28px" height="28px"/>
+  <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="TS icon" width="36px" height="36px"/>
 </div>
 <!---
 vadimkim0203/vadimkim0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
