@@ -9,7 +9,7 @@
 
 
 <h1>What I use</h1>
-<div style="display: flex; align-items: center; gap: 8px;">
+<div style="display: flex; align-items: center; justify-items: center;">
   <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="TS icon" width="36px" height="36px"/>
   <img src="https://abrudz.github.io/logos/JS.svg" alt="JS icon" width="36px" height="36px">
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NextJS.svg" alt="NextJS icon" width="36px" height="36px">
