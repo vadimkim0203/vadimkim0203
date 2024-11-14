@@ -15,6 +15,8 @@
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NextJS.svg" alt="NextJS icon" width="36px" height="36px">
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/React.svg" alt="React icon" width="36px" height="36px">
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TailwindCSS.svg" alt="Tailwind CSS icon" >
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TypeScript.svg" alt="Typescrip icon">
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/Vercel.svg" alt="Vercel icon">
   
 </div>
 <!---
