@@ -14,6 +14,8 @@
   <img src="https://abrudz.github.io/logos/JS.svg" alt="JS icon" width="36px" height="36px">
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NextJS.svg" alt="JS icon" width="36px" height="36px">
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/React.svg" alt="JS icon" width="36px" height="36px">
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TailwindCSS.svg" alt="JS icon" width="36px" height="36px">
+  
 </div>
 <!---
 vadimkim0203/vadimkim0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
