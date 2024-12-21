@@ -1,14 +1,11 @@
-<div>
-  <img src="https://www.codewars.com/users/vadimkim0203/badges/large">
-</div>
+### :man_technologist: About Me
+
+  My name is Vadim and I'm a front-end developer. Started my journey in December 2023. Keep up with my progress and you're welcome to check my projects by visiting my [Portfolio](https://cv-website-sigma-five.vercel.app/) 🙇🏻
 
 
-<h1>👋 Hey everyone!</h1>
-<p>
-  My name is Vadim and I'm a front-end developer. I found my passion and drive in making beautiful and convenient web-sites and interfaces. Started my journey in December 2023. Keep up with my progress and you're welcome to check my projects below 🙇🏻
-</p>
+---
 
-<h1>What I use</h1>
+### :hammer_and_wrench: What I use
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -23,6 +20,15 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 </div>
+
+---
+
+### :dart: Accomplishments and side quests
+<img src="https://www.codewars.com/users/vadimkim0203/badges/large">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vadimkim0203&theme=shadow-blue&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
+
+
 <!---
 vadimkim0203/vadimkim0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
