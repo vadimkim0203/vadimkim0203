@@ -11,13 +11,17 @@
 <h1>What I use</h1>
 
 <div align="center">
-  <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="TS icon" width="36" height="36"/>
-  <img src="https://abrudz.github.io/logos/JS.svg" alt="JS icon" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/NextJS.svg" alt="NextJS icon" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/React.svg" alt="React icon" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TailwindCSS.svg" alt="Tailwind CSS icon" width="64" height="48"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TypeScript.svg" alt="Typescript icon" width="52" height="36"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/Vercel.svg" alt="Vercel icon" width="48" height="36"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 </div>
 <!---
 vadimkim0203/vadimkim0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
