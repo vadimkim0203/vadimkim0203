@@ -24,8 +24,11 @@
 ---
 
 ### :dart: Accomplishments and side quests
-<img src="https://www.codewars.com/users/vadimkim0203/badges/large">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vadimkim0203&theme=shadow-blue&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+ <td valign="center"><img src="https://www.codewars.com/users/vadimkim0203/badges/large"></td>
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vadimkim0203&theme=shadow-blue&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+</div>
 
 
 
