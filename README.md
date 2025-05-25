@@ -31,10 +31,9 @@
  <td valign="center"><img src="https://www.codewars.com/users/vadimkim0203/badges/large"></td>
   
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vadimkim0203&theme=shadow-blue&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/YQt4CeXeaW)
+  </br>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/vadimkim0203)
 </div>
-
-
 
 
 <!---
