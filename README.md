@@ -1,6 +1,6 @@
 ### :man_technologist: About Me
 
-  My name is Vadim and I'm a front-end developer. Started my journey in December 2023. Keep up with my progress and you're welcome to check my projects by visiting my [Portfolio](https://cv-website-sigma-five.vercel.app/) 🙇🏻
+  Frontend developer backed by a strong foundation in retail and B2B service, skilled in understanding user needs, solving problems, and delivering practical solutions. Keep up with my progress and you're welcome to check my projects by visiting my [Portfolio](https://cv-website-sigma-five.vercel.app/) 🙇🏻
 
 
 ---
